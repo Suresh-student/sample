@@ -1,0 +1,42 @@
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: max-content;
+}
+ul{
+    display: flex;
+    text-align: center;
+}
+nav {
+    padding:10px;
+    background-color: #333; /* Add a background color to the nav for better visibility */
+}
+
+
+
+li {
+    display: inline-block;
+    margin-right: 20px; /* Adjust the margin between list items */
+}
+
+a {
+    text-decoration: none;
+    color: white; /* Set the link color */
+}
+
+main {
+    margin: 20px; /* Add some space around the main content */
+   
+    text-align: center;
+    
+    
+}
+footer{
+    margin: 20px;
+}
+label{
+    
+    text-align: left;
+   
+}
